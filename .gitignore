@@ -1,16 +1,16 @@
-# Ignore environment files
-myenv/
-
-# Ignore datasets and models
+# Ignore confidential folders
 data/
 models/
+myenv/
 
-# Ignore Python cache
+# Python/Streamlit artifacts
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.DS_Store
 
-# Ignore Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Ignore Streamlit logs
+# VSCode & system files
+.vscode/
 *.log
+*.env
