@@ -1,0 +1,16 @@
+# Ignore environment files
+myenv/
+
+# Ignore datasets and models
+data/
+models/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Streamlit logs
+*.log
