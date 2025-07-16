@@ -75,7 +75,7 @@ These are withheld for privacy, reproducibility, and storage reasons. A simulate
 **M. Bhuvanindra Kiran Reddy**
 
 * 🔗 [LinkedIn](https://linkedin.com/in/m-bhuvanindra-kiran-reddy-924072260)
-* 📧 [bhuvanindra@gmail.com](mailto:bhuvanindra@gmail.com)
+* 📧 [bhuvankiran02@gmail.com](mailto:bhuvankiran02@gmail.com)
 
 ---
 
